@@ -2,7 +2,7 @@
 
 <h2>Sobre</h2>
  <p>Projeto de responsividade feito com o Alura</p>
- <a href = "https://alura-plus-80jguzpro-alangoveiaalves-projects.vercel.app">Clique aqui para acessar o projeto</a>
+ <a href = "https://alura-plus-nine-neon.vercel.app">Clique aqui para acessar o projeto</a>
 <br><br><br> 
 ##Tecnologias
 <div>
